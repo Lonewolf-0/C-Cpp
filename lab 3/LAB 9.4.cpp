@@ -1,0 +1,1 @@
+//Develop a program to send ythe entire data of structure to a function.
